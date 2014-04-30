@@ -1,5 +1,7 @@
 ## F_distributions
 
+Email questions about the code to pfc &lt;AT&gt; stat.osu.edu
+
 R functions involving the noncentral F distribution
 
 Supported by National Science Foundation grants DMS-0604963 and DMS-0906864.
